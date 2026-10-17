@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="128" fill="#fc8019"/>
+  <rect x="32" y="32" width="448" height="448" rx="112" fill="#1e1e24"/>
+  <rect x="64" y="64" width="384" height="384" rx="96" fill="#fc8019"/>
+  <text x="256" y="330" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="220" font-weight="900" fill="#ffffff" text-anchor="middle">IM</text>
+</svg>
