@@ -1,0 +1,12 @@
+node_modules/
+client/node_modules/
+client/dist/
+client/android/.gradle/
+client/android/build/
+client/android/app/build/
+client/android/local.properties
+uploads/
+audit_database.sqlite
+audit_database.sqlite-shm
+audit_database.sqlite-wal
+Swiggy_Instamart_Rack_Audit.apk
